@@ -1,5 +1,6 @@
-# Drive_Path_Optimization_with_Search_Algorithms
-Path Optimization with Search Algorithms for an Automotive Navigation System
+## Drive Path Optimization with Search Algorithms
+
+#Path Optimization with Search Algorithms for an Automotive Navigation System
 
 Artificial intelligence has enormous potential of creating remarkable solutions that improve the quality
 of our daily lives. An example is the application of automotive navigation systems that provides
